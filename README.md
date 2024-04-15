@@ -6,7 +6,7 @@
 
 <!--- Badges --->
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="[Isaac Karanu](https://www.linkedin.com/in/isaac-karanu-98060a286)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -46,7 +46,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, StackOverflow and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-karanu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-karanu-98060a286)
 
 
 <!--- Third Section --->
