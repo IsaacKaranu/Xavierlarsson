@@ -9,16 +9,16 @@
   <a href="[Isaac Karanu](https://www.linkedin.com/in/isaac-karanu-98060a286)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="[Isaac Karanu](https://discord.com/channels/xavierlarsson)">
+    <img src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=dicord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="[I](https://twitter.com/LarssonXavier)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
 <!--- Profile Count --->
-<img src="https://komarev.com/ghpvc/?xavierlarsson&style=flat-square&color=blue" alt=""/>
+<img src="![](https://komarev.com/ghpvc/?username=xavierlarsson&style=for-the-badge)" alt=""/>
 
 <!--- Wave GIF --->
 <h1>
@@ -42,7 +42,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling:  Learning Node.js & more
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, StackOverflow and read tech articles.
 
